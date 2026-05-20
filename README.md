@@ -176,6 +176,9 @@ The local database configuration is managed in `sqliteDB.js` which parses dynami
 ### Original Author
 This project was developed, designed, and optimized by **[Drago](https://github.com/drago09t)**.
 
+### Support
+**[discord](https://discord.gg/xCjPpGGP)**
+
 ### License & Attribution Terms
 Vortex is released as an open-source project under a modified MIT License. 
 
@@ -183,3 +186,4 @@ Vortex is released as an open-source project under a modified MIT License.
 The developer attribution credits, brand watermarks, and author notices present in the user interface (specifically the Landing Page footer, Server Selection footer, and Dashboard Sidebar) stating **"Made by Drago"** must remain completely unmodified, fully visible, and cannot be hidden, bypassed, or removed in any fork, redistribution, or derivative work.
 
 *Note: The frontend code includes an active integrity verification mechanism to enforce this license condition.*
+
