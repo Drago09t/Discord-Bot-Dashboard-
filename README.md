@@ -174,7 +174,7 @@ The local database configuration is managed in `sqliteDB.js` which parses dynami
 ## 📜 Credits & License
 
 ### Original Author
-This project was developed, designed, and optimized by **[Drago](https://github.com)**.
+This project was developed, designed, and optimized by **[Drago](https://github.com/drago09t)**.
 
 ### License & Attribution Terms
 Vortex is released as an open-source project under a modified MIT License. 
