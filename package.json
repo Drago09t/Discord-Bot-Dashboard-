@@ -1,0 +1,29 @@
+{
+  "name": "discord-gemini-chatbot",
+  "version": "1.0.0",
+  "description": "Discord AI chatbot powered by Google Gemini API",
+  "main": "bot.js",
+  "private": true,
+  "scripts": {
+    "start": "node bot.js",
+    "deploy": "node deploy-commands.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.10.0",
+    "@discordjs/voice": "^0.19.0",
+    "@distube/ytdl-core": "^4.16.12",
+    "@google/generative-ai": "^0.24.1",
+    "@napi-rs/canvas": "^0.1.86",
+    "@snazzah/davey": "^0.1.9",
+    "@supabase/supabase-js": "^2.39.3",
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3",
+    "ffmpeg": "^0.0.4",
+    "genius-lyrics": "^4.4.7",
+    "shoukaku": "^4.2.0",
+    "sodium-native": "^5.0.10",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^6.0.1"
+  }
+}
