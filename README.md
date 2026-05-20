@@ -1,4 +1,4 @@
-# ⚡ A - Premium Discord Bot & Dashboard
+# ⚡ Vortex - Premium Discord Bot & Dashboard
 
 Vortex is a next-generation, high-performance Discord bot engine coupled with a state-of-the-art web-based management dashboard. It includes feature-rich modules for advanced AI moderation, custom welcome messages, automated logs, levels and XP, roles management, voice channel leveling, high-fidelity music playback, and professional ticket support with HTML transcript generation.
 
